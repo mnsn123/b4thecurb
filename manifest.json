@@ -1,0 +1,18 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "name": "B4TheCurb",
+  "short_name": "B4TheCurb",
+  "icons": [
+    {
+      "src": "https://monsoonmalabar.com/b4thecurb/logo.png",
+      "sizes": "192x192",
+      "type": "image\/png"
+    }
+  ],
+  "theme_color": "#1266f1",
+  "background_color": "#fdfdfd",
+  "start_url": "https://monsoonmalabar.com/b4thecurb\/",
+  "display": "standalone",
+  "orientation": "natural"
+}
